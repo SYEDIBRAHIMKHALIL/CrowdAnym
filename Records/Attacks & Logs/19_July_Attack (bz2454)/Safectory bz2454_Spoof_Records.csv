@@ -1,0 +1,4 @@
+mac_address,eventtype,epocutc,zone,rssi,techtype
+36e32654fecb0d24cd01fc6d205c4f29fa07e9fc901052a144f958ab,status,19-07-23 3:20,bz2454,-65,2
+b86dd20f74f8ebf28be9adafae6c5900702476dcf5490ee586b01e79,status,19-07-23 3:21,bz2454,-79,2
+b7a828306d2eaa1b9ab902fff065e2588e753b626caa83b78b862afc,status,19-07-23 3:21,bz2454,-79,2
