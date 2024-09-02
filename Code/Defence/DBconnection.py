@@ -3,8 +3,8 @@ import psycopg2
 conn = psycopg2.connect(
     host='141.13.162.170',
     port='5432',
-    user='crowdanym_reader',
-    password='cranym_read',
+    user='***', #USERNAME HERE
+    password='***', #PASSWORD HERE
     dbname='testdb'
 )
 
