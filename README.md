@@ -32,4 +32,7 @@
 ![My image](Report/images/spoofrecords.PNG)
 </ul><ul>
 
-<p>If  you have any query, please don't hesitate to contact me at "syed-ibrahim.khalil@stud-uni-bamberg.de"</p>
+<p>For any questions or feedback, please reach out to:
+
+- **Syed Ibrahim Khalil**: [syedibrahimkhalil@protonmail.com](mailto:syedibrahimkhalil@protonmail.com)
+- **Website**: www.syedibrahimkhalil.com</p>
